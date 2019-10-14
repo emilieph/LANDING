@@ -1,0 +1,55 @@
+
+body{
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 25px;
+  font-family: 'Open Sans', sans-serif;
+}
+h1{
+  font-family: 'Roboto', sans-serif;
+  color: red;
+  font-weight: lighter;
+  font-size: 10px;
+}
+h2 {
+font-family: 'Roboto', sans-serif;
+  color: green;
+  font-weight: lighter;
+  font-size: 20px;
+}
+a {
+  color: orange;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+#banner{
+  text-align: center;
+  letter-spacing: 1px;
+  background-image: url("https://www.linfodurable.fr/sites/linfodurable/files/styles/landscape_w800/public/2017-11/shutterstock_662332231.jpg?itok=AGCiuage&h=b278d7e8");
+  background-size: cover;
+  background: rgba();
+  padding: 10px;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: yellow;
+  font-size: 50px;
+}
+#banner p {
+  color: yellow;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 10px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+  text-align: center;
+}
